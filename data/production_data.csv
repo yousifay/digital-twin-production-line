@@ -1,0 +1,6 @@
+unit_id,status,cycle_time
+1,good,5.2
+2,good,4.8
+3,defective,6.0
+4,good,5.1
+5,good,4.9
